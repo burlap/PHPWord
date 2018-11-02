@@ -3,6 +3,14 @@ Change Log
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+v0.16.0 (xx xxx 2018)
+----------------------
+### Added
+
+### Fixed
+- Fix regex in `cloneBlock` function @nicoder #1269
+- HTML Title Writer loses text when Title contains a TextRun instead a string. @begnini #1436
+
 v0.15.0 (14 Jul 2018)
 ----------------------
 ### Added
